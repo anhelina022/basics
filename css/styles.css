@@ -1,6 +1,11 @@
-body {
+/*body {
     font-family: 'font-family: Playfair Display';
-}
+}*/
+
+.conteiner {
+        width: 1200px;
+        margin: 0 auto;
+} 
 
 .header {
     width: 555px;
@@ -9,10 +14,10 @@ body {
 
 .div-p {
     font-family: 'Playfair Display';
-font-size: 14px;
-font-weight: 400;
-line-height: 19px;
-background-color: #626262;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    background-color: #626262;
 }
 
 .btn {
