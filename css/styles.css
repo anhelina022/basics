@@ -2,6 +2,11 @@ body {
     font-family: 'font-family: Playfair Display';
 }
 
+.header {
+    width: 555px;
+    height: 19px;
+}
+
 .div-p {
     font-family: 'Playfair Display';
 font-size: 14px;
