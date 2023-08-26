@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: center;
+    padding: 71px 0 92px;
+  }
+  
+  .nav-list {
+    display: flex;
+    width: 555px;
+    justify-content: space-between;
+  }
+  
+  .nav-list__link {
+    color: #7d7d7d;
+  }
+  
+  .nav-list__link:hover,
+  .nav-list__link:focus {
+    color: #03a9f4;
+  }
